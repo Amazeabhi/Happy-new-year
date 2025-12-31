@@ -2,7 +2,7 @@
 
 # 🎆 2025: A New Chapter Begins 🎆
 
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=HAPPY%20NEW%20YEAR&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://pngtree.com/freepng/happy-new-year-text-in-black-and-color-vector_9123557.html?type=soft&color=auto&height=200&section=header&text=HAPPY%20NEW%20YEAR&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 
 ### ✨ Wishing you a year full of clean code, merged PRs, and zero bugs! ✨
 
