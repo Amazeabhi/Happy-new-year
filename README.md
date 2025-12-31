@@ -34,6 +34,6 @@
 
 **May your `git push` always be successful and your coffee always be hot. ☕️**
 
-![](https://hit.yhype.me/github/profile/views/YOUR_USERNAME/res.svg)
+![](https://hit.yhype.me/github/profile/views/Amazeabhi/res.svg)
 
 </div>
