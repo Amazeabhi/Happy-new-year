@@ -2,7 +2,7 @@
 
 # 🎆 2025: A New Chapter Begins 🎆
 
-<img src="https://img.freepik.com/free-vector/happy-new-year-2025-banner-with-fireworks_1017-53112.jpg" width="800" alt="Happy New Year 2025">
+<img src="https://png.pngtree.com/png-clipart/20230429/original/pngtree-happy-new-year-text-in-black-and-color-png-image_9123557.png" width="700" alt="Happy New Year 2025">
 
 ### ✨ Wishing you a year full of clean code, merged PRs, and zero bugs! ✨
 
