@@ -27,7 +27,7 @@
 ### 🚀 2025 Roadmap & Resolutions
 | Goal | Category | Status |
 | :--- | :---: | :---: |
-| Learn a new language/framework | 📚 Growth | 🟦 0% |
+| Learn a new language/framework | 📚 Growth | 🟦 0% 
 | Contribute to Open Source | 🤝 Community | 🟦 0% |
 | Keep the Green Square Streak | 🔥 Consistency | 🟩 1% |
 | Ship a passion project | 🚢 Shipping | 🟦 0% |
